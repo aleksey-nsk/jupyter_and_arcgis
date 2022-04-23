@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
-output/
 __pycache__
 venv
+# output/
