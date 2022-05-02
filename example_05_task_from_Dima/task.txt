@@ -1,77 +1,41 @@
 ﻿*************************************************************************
-
 ********** A sample to learn with Python API for GeoEnrichment **********
 
-
-
 I suggest the following sample to practice Python API for GeoEnrichment. In attached files there is 
-California waste product data by county. 
-Goal is to analyze waste production and best candidate for 
+California waste product data by county. Goal is to analyze waste production and best candidate for 
 funding waste reduction social programs. 
 
-For this we need time the following steps: 
-  
-  1. Find and exclude bad reported data.
-  
-  2. Calculate population for each county from GeoEnrichment service for 2010 and 2019 years.
-  
-  3. Calculate waste production per capita for 2010 and 2019 years.
-  
-  4. Map counties that doing bad in 9 years interval in terms of minimizing waste production (rate is indicator to render).
-  
-  5. Build At Risk Population, Demographics Income Profile and Site Map report in PDF/HTML formats for worse county.
-  
-  6. Calculate correlation between key global facts for county and waste production increase rate.
-  
-  7. Find most calculated variable as a factor allowing to predict area with waste production increase.
-  
+For this we need time the following steps:   
+  1. Find and exclude bad reported data.  
+  2. Calculate population for each county from GeoEnrichment service for 2010 and 2019 years.  
+  3. Calculate waste production per capita for 2010 and 2019 years.  
+  4. Map counties that doing bad in 9 years interval in terms of minimizing waste production (rate is indicator to render).  
+  5. Build At Risk Population, Demographics Income Profile and Site Map report in PDF/HTML formats for worse county.  
+  6. Calculate correlation between key global facts for county and waste production increase rate.  
+  7. Find most calculated variable as a factor allowing to predict area with waste production increase.  
   8. Build a bar chart illustration correlation of different variables.
-
-
 
 Of course, adjustment are possible. It’s just a learning task.
 
-
-
 *************************************************************************
-
 ******** Пример для изучения работы с Python API и GeoEnrichment ********
 
-
-
-Я предлагаю следующий пример для практики Python API для GeoEnrichment. 
-В прикрепленных файлах есть 
-данные по отходам Калифорнии по округам.
- Цель состоит в том, чтобы проанализировать производство отходов, и найти лучшего кандидата 
-
-на финансирование социальных программ по сокращению отходов.
+Я предлагаю следующий пример для практики Python API для GeoEnrichment. В прикрепленных файлах 
+есть данные по отходам Калифорнии по округам. Цель состоит в том, чтобы проанализировать производство 
+отходов, и найти лучшего кандидата на финансирование социальных программ по сокращению отходов.
  
-Для этого нам нужно время на следующие шаги:
-  
-  1. Найдите и исключите неверные отчётные данные.
-  
-  2. Рассчитайте численность населения для каждого округа из сервиса GeoEnrichment на 2010 и 2019 годы.
-  
-  3. Рассчитайте производство отходов на душу населения за 2010 и 2019 годы.
-  
-  4. Нанесите на карту округа, в которых дела обстоят плохо в интервале 9 лет, с точки зрения минимизации 
- 
-     образования отходов (уровень является индикатором для отображения).
-  
-  5. Создайте отчёты о Группе риска, Демографическом профиле доходов и Карте местности 
-     
-     в форматах PDF/HTML для худшего округа.
-  
-  6. Рассчитайте корреляцию между "ключевыми глобальными фактами" для округа и темпами роста производства отходов.
-  
-  7. Найдите наиболее вычисляемую переменную как фактор, позволяющий прогнозировать площадь увеличения образования отходов.
-  
+Для этого нам нужно время на следующие шаги:  
+  1. Найдите и исключите неверные отчётные данные.  
+  2. Рассчитайте численность населения для каждого округа из сервиса GeoEnrichment на 2010 и 2019 годы.  
+  3. Рассчитайте производство отходов на душу населения за 2010 и 2019 годы.  
+  4. Нанесите на карту округа, в которых дела обстоят плохо в интервале 9 лет, с точки зрения минимизации  
+     образования отходов (уровень является индикатором для отображения).  
+  5. Создайте отчёты о Группе риска, Демографическом профиле доходов и Карте местности      
+     в форматах PDF/HTML для худшего округа.  
+  6. Рассчитайте корреляцию между "ключевыми глобальными фактами" для округа и темпами роста производства отходов.  
+  7. Найдите наиболее вычисляемую переменную как фактор, позволяющий прогнозировать площадь увеличения образования отходов.  
   8. Постройте столбчатую диаграмму, иллюстрирующую корреляцию различных переменных.
   
-
-
 Конечно, возможны корректировки. Это просто учебная задача.
-
-
 
 *************************************************************************
